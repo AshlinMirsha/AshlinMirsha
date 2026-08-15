@@ -7,20 +7,20 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React+%7C+TypeScript;1st+Year+B.Tech+%40+Karunya+University;Problem+Solver+%7C+LeetCode;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React+%7C+TypeScript;1st+Year+B.Tech+%40+Karunya+University;DSA+%7C+Problem+Solving+%7C+LeetCode;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-- 🎓 I'm a **1st Year B.Tech Computer Science Student** at **Karunya Institute of Technology and Sciences**.
-- 💻 Passionate about **programming, problem solving, web development, and emerging technologies**.
-- 🚀 I enjoy turning ideas into real-world projects.
-- 🌱 Currently learning **Next.js, TypeScript, AI/ML, and Cloud Technologies**.
-- 🤝 Open to collaborating on exciting web development and open-source projects.
-- 📚 Always exploring modern technologies and best development practices.
-- ⚡ Fun Fact: **I love solving coding challenges and building useful applications.**
+* 🎓 I'm a **1st Year B.Tech Computer Science Student** at **Karunya Institute of Technology and Sciences**.
+* 💻 Passionate about **programming, problem solving, web development, and emerging technologies**.
+* 🚀 I enjoy turning ideas into real-world projects.
+* 🌱 Currently learning **Next.js, TypeScript, AI/ML, and Cloud Technologies**.
+* 🤝 Open to collaborating on exciting web development and open-source projects.
+* 📚 Always exploring modern technologies and best development practices.
+* ⚡ Fun Fact: **I love solving DSA problems and building useful applications.**
 
 ---
 
@@ -56,43 +56,52 @@
 
 ---
 
-# 🧩 LeetCode
+# 🧩 LeetCode DSA Journey
 
 <p align="center">
 
 <a href="https://leetcode.com/u/Ashlin_Mirsha/">
-<img src="https://img.shields.io/badge/LeetCode-Ashlin__Mirsha-orange?style=for-the-badge&logo=leetcode"/>
+<img src="https://img.shields.io/badge/LeetCode-DSA%20Practice-orange?style=for-the-badge&logo=leetcode"/>
 </a>
 
 </p>
 
-### 📊 LeetCode Stats
+### 📊 DSA Progress
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Ashlin_Mirsha?theme=dark&font=baloo&ext=heatmap"/>
 </p>
 
-### 🔥 LeetCode Progress
+| 📌 DSA Progress    |      Status |
+| ------------------ | ----------: |
+| 🧩 Problems Solved |     **25+** |
+| 🟢 Easy            | 🔄 Updating |
+| 🟡 Medium          | 🔄 Updating |
+| 🔴 Hard            | 🔄 Updating |
+| 🔥 Daily Practice  |   🚀 Active |
 
-| 📌 Category | Progress |
-|---|---:|
-| 🧩 Problems Solved | **25+** |
-| 🟢 Easy | 🔄 Updating |
-| 🟡 Medium | 🔄 Updating |
-| 🔴 Hard | 🔄 Updating |
+### 🧠 DSA Topics I Practice
 
-### 📅 Coding Activity
+`Arrays` `Strings` `Hashing` `Two Pointers` `Sliding Window`
+
+`Linked List` `Stack` `Queue` `Binary Search` `Recursion`
+
+`Trees` `Graphs` `Dynamic Programming` `Greedy` `Sorting`
+
+### 📅 LeetCode Activity
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Ashlin_Mirsha?theme=dark&ext=heatmap"/>
 </p>
 
-### 📚 My LeetCode Solutions
+### 📚 My DSA Solutions
+
+All my solved LeetCode problems and DSA solutions are maintained here:
 
 <p align="center">
 
 <a href="https://github.com/AshlinMirsha/leetcode_solution">
-<img src="https://img.shields.io/badge/View%20My%20Solutions-181717?style=for-the-badge&logo=github"/>
+<img src="https://img.shields.io/badge/🧩%20View%20DSA%20Solutions-181717?style=for-the-badge&logo=github"/>
 </a>
 
 </p>
@@ -105,11 +114,11 @@
 
 Attendance management application with:
 
-- 🔐 Authentication
-- 👤 Face verification
-- 👩‍🏫 Teacher management
-- 📅 Attendance sessions
-- 📊 Reports
+* 🔐 Authentication
+* 👤 Face verification
+* 👩‍🏫 Teacher management
+* 📅 Attendance sessions
+* 📊 Reports
 
 **Tech:** Flutter, AI/Face Verification
 
@@ -119,12 +128,12 @@ Attendance management application with:
 
 A full-stack attendance management system using:
 
-- 📱 QR-based attendance
-- 📍 GPS geofencing
-- 🔐 Student authentication
-- 🚌 Van-wise attendance
-- ⏰ Automated QR generation
-- 📧 Email notifications
+* 📱 QR-based attendance
+* 📍 GPS geofencing
+* 🔐 Student authentication
+* 🚌 Van-wise attendance
+* ⏰ Automated QR generation
+* 📧 Email notifications
 
 ---
 
@@ -132,10 +141,10 @@ A full-stack attendance management system using:
 
 A social-style application for sharing:
 
-- 🎥 Reels
-- 📸 Photos
-- 📄 Documents
-- 🤖 AI/RAG chatbot integration
+* 🎥 Reels
+* 📸 Photos
+* 📄 Documents
+* 🤖 AI/RAG chatbot integration
 
 ---
 
@@ -147,20 +156,20 @@ My personal portfolio showcasing projects, skills, and experience.
 
 `HTML` `CSS` `JavaScript` `React`
 
-🔗 **Live Demo:**  
+🔗 **Live Demo:**
 https://my-portfolio-mu-eight-15.vercel.app/
 
-📁 **Repository:**  
+📁 **Repository:**
 https://github.com/AshlinMirsha/my-portfolio
 
 ---
 
 # 🏆 Achievements
 
-- 🥈 **2nd Place** — Google Gemini Buildathon
-- 🏅 **Top 20 Teams** — NexBuildOn Hackathon
-- 💻 **25+ LeetCode Problems Solved**
-- 🧠 **TinyML Course Completed**
+* 🥈 **2nd Place** — Google Gemini Buildathon
+* 🏅 **Top 20 Teams** — NexBuildOn Hackathon
+* 🧩 **25+ DSA Problems Solved on LeetCode**
+* 🧠 **TinyML Course Completed**
 
 ---
 
@@ -202,38 +211,39 @@ https://github.com/AshlinMirsha/my-portfolio
 
 # 🛠 Currently Working On
 
-- 🚀 Building full-stack web applications with Django & React
-- 🌱 Learning advanced React ecosystem and TypeScript
-- ☁️ Exploring cloud deployment and DevOps
-- 💻 Improving responsive UI/UX design
-- 🧩 Solving more LeetCode problems
+* 🚀 Building full-stack web applications with Django & React
+* 🌱 Learning advanced React ecosystem and TypeScript
+* ☁️ Exploring cloud deployment and DevOps
+* 💻 Improving responsive UI/UX design
+* 🧩 Solving more DSA problems on LeetCode
 
 ---
 
 # 📚 Currently Learning
 
-- 🧩 Data Structures & Algorithms
-- ⚛️ React & Next.js
-- 🟦 TypeScript
-- 🐳 Docker
-- ☁️ AWS
-- 🤖 Artificial Intelligence & Machine Learning
-- 🔐 Cybersecurity
-- 🧠 TinyML
-- 🏗️ System Design
-- ⚙️ Backend Architecture
+* 🧩 Data Structures & Algorithms
+* 🧠 Problem Solving
+* ⚛️ React & Next.js
+* 🟦 TypeScript
+* 🐳 Docker
+* ☁️ AWS
+* 🤖 Artificial Intelligence & Machine Learning
+* 🔐 Cybersecurity
+* 🧠 TinyML
+* 🏗️ System Design
+* ⚙️ Backend Architecture
 
 ---
 
 # 🎯 Goals for 2026
 
-- ✅ Contribute to Open Source
-- 🚀 Build SaaS Applications
-- 💻 Master Full Stack Development
-- ☁️ Learn Cloud Computing
-- 🧩 Solve 100+ LeetCode Problems
-- 🏗️ Build Production-Ready Projects
-- 📈 Grow My Developer Portfolio
+* ✅ Contribute to Open Source
+* 🚀 Build SaaS Applications
+* 💻 Master Full Stack Development
+* ☁️ Learn Cloud Computing
+* 🧩 Solve **100+ DSA Problems** on LeetCode
+* 🏗️ Build Production-Ready Projects
+* 📈 Grow My Developer Portfolio
 
 ---
 
