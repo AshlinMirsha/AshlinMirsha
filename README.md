@@ -1,4 +1,4 @@
-# AshllinMirsha
+# AshlinMirsha
 <h1 align="center">Hi 👋, I'm Ashlin Mirsha R K</h1>
 
 <h3 align="center">
