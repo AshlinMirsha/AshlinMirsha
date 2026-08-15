@@ -124,7 +124,7 @@ My personal portfolio showcasing projects, skills, and experience built with mod
 
 ---
 
-# 🎯 Goals for 2025
+# 🎯 Goals for 2026
 
 - ✅ Contribute to Open Source
 - ✅ Build SaaS Applications
