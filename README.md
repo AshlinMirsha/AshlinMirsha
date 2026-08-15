@@ -7,14 +7,14 @@
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React+%7C+TypeScript;1st+Year+B.Tech+%40+Karunya+University;DSA+%7C+Problem+Solving+%7C+LeetCode;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=800&lines=Full+Stack+Web+Developer;Python+%7C+Django+%7C+React+%7C+TypeScript;2nd+Year+B.Tech+%40+Karunya+University;DSA+%7C+Problem+Solving+%7C+LeetCode;Always+Learning+New+Technologies;Let's+Build+Something+Awesome!" />
 </p>
 
 ---
 
 ## 🚀 About Me
 
-* 🎓 I'm a **1st Year B.Tech Computer Science Student** at **Karunya Institute of Technology and Sciences**.
+* 🎓 I'm a **2nd Year B.Tech Computer Science Student** at **Karunya Institute of Technology and Sciences**.
 * 💻 Passionate about **programming, problem solving, web development, and emerging technologies**.
 * 🚀 I enjoy turning ideas into real-world projects.
 * 🌱 Currently learning **Next.js, TypeScript, AI/ML, and Cloud Technologies**.
