@@ -102,7 +102,7 @@ My personal portfolio showcasing projects, skills, and experience built with mod
 <img src="https://github-profile-trophy.vercel.app/?username=AshlinMirsha&theme=tokyonight&no-frame=true&margin-w=10"/>
 </p>
 
----
+----
 
 # 🛠 Currently Working On
 
